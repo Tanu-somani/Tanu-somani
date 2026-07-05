@@ -65,10 +65,7 @@ Reach me at [tanusomani8877@gmail.com](mailto:tanusomani8877@gmail.com)
   <img src="https://streak-stats.demolab.com?user=Tanu-somani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanu-somani&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanu-somani&theme=tokyonight" alt="Most Used Languages" />
-</p>
+
 
 ---
 
