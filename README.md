@@ -62,7 +62,7 @@ Reach me at [tanusomani8877@gmail.com](mailto:tanusomani8877@gmail.com)
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=Tanu-somani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Tanu-somani&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
